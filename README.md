@@ -2,6 +2,12 @@
 
 This project implements an Iron Condor options strategy calculator using real-time stock data fetched from Yahoo Finance. It leverages the Black-Scholes option pricing model and calculates option Greeks (Delta, Gamma, Theta, Vega, Rho) to provide a comprehensive analysis of the strategy. Additionally, it includes a Streamlit app to allow users to interactively visualize the payoff diagram and Greeks of their Iron Condor strategy.
 
+
+
+https://github.com/user-attachments/assets/93f07a78-869d-4fc8-9168-f01d5a7aae22
+
+
+
 ## Features
 
 - **Real-time Stock Data**: Fetches live stock prices using Yahoo Finance.
