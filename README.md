@@ -17,8 +17,13 @@ https://github.com/user-attachments/assets/23eb96bc-5dfe-431d-9951-ba66efbfab95
 
 - Input Parameters:
 
+
 Stock Ticker: Enter the ticker symbol of the stock you want to analyze (e.g., AAPL, MSFT).
+
+
 Strike Prices: Set the strike prices for the Iron Condor strategy:
+
+
 Short Call Strike (K1)
 
 Short Put Strike (K2)
