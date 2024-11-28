@@ -33,7 +33,8 @@ https://github.com/user-attachments/assets/23eb96bc-5dfe-431d-9951-ba66efbfab95
 - **Payoff Diagram**: Displays a graph showing the profit and loss for the Iron Condor strategy at different stock prices at expiration.
 - **Greeks Plot**: Displays the Delta, Gamma, Theta, Vega, and Rho values for each leg of the Iron Condor strategy.
 
-Papers:
+## Papers:
+
 Black-Scholes, M. (1973). The pricing of options and corporate liabilities. Journal of Political Economy, 81(3), 637–654. https://doi.org/10.1086/260062
 
 Merton, R. C. (1973). Theory of rational option pricing. The Bell Journal of Economics and Management Science, 4(1), 141–183. https://doi.org/10.2307/3003143
