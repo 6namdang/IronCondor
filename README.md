@@ -2,6 +2,11 @@
 
 This project implements an Iron Condor options strategy calculator using real-time stock data fetched from Yahoo Finance. It leverages the Black-Scholes option pricing model and calculates option Greeks (Delta, Gamma, Theta, Vega, Rho) to provide a comprehensive analysis of the strategy. Additionally, it includes a Streamlit app to allow users to interactively visualize the payoff diagram and Greeks of their Iron Condor strategy.
 
+
+
+https://github.com/user-attachments/assets/23eb96bc-5dfe-431d-9951-ba66efbfab95
+
+
 ## Features
 
 - **Real-time Stock Data**: Fetches live stock prices using Yahoo Finance.
@@ -15,16 +20,25 @@ This project implements an Iron Condor options strategy calculator using real-ti
 Stock Ticker: Enter the ticker symbol of the stock you want to analyze (e.g., AAPL, MSFT).
 Strike Prices: Set the strike prices for the Iron Condor strategy:
 Short Call Strike (K1)
+
 Short Put Strike (K2)
+
 Long Call Strike (K3)
+
 Long Put Strike (K4)
+
 Time to Expiration (T): Set the number of days until expiration (converted to years).
+
 Risk-Free Interest Rate (r): Set the annual risk-free interest rate (e.g., 0.05 for 5%).
+
 Implied Volatility (σ): Set the implied volatility of the underlying asset.
+
 Premiums: Set the premium prices for the call and put options in the Iron Condor strategy.
+
 Output:
 
 Payoff Diagram: Displays a graph showing the profit and loss for the Iron Condor strategy at different stock prices at expiration.
+
 Greeks Plot: Displays the Delta, Gamma, Theta, Vega, and Rho values for each leg of the Iron Condor strategy.
 
 Papers:
