@@ -57,4 +57,4 @@ To run this project locally, you need to install the following Python libraries:
 
 ```bash
 pip install streamlit numpy matplotlib yfinance scipy
-streamlit run app1.py
+streamlit run app.py
